@@ -44,3 +44,10 @@ npm i
 npm run dev
 ```
 # Job-portal-fullstack
+
+### On Backend Folder 
+``` shell
+cd backend 
+npm i
+npm run dev
+```
